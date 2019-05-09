@@ -9,3 +9,7 @@ Mystery Legacy Repo is for advanced penetration tools
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
+
+# Scanners
+
+1- IP's local Scanner : VBS
