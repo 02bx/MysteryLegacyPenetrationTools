@@ -12,6 +12,7 @@ Mystery Legacy Repo is for advanced penetration tools
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
+2- AU3 Inject Memory Downloader - .net/Native
 
 # Scanners
 
@@ -20,3 +21,4 @@ Mystery Legacy Repo is for advanced penetration tools
 # Containers
 
 1- Powershell Code Container with C#
+2- Powershell Code Container with Masm32/Assembly
