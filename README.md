@@ -24,3 +24,5 @@ Mystery Legacy Repo is for advanced penetration tools
 1- Powershell Code Container with C#
 
 2- Powershell Code Container with Masm32/Assembly
+
+3- JS Code Container with AHK:Autohotkey
