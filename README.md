@@ -9,6 +9,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 3- AHK (AutoHotKey) Worm
 
+4- C# Worm
+
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
