@@ -17,6 +17,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 2- AU3 Inject Memory Downloader - .net/Native
 
+3- PS Inject PE .NET Downloader
+
 # Scanners
 
 1- IP's local Scanner : VBS
