@@ -11,6 +11,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 4- C# Worm
 
+5- Javascript Worm
+
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
