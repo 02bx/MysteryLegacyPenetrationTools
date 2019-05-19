@@ -13,6 +13,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 5- Javascript Worm
 
+6- VBScript Worm
+
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
@@ -24,6 +26,8 @@ Mystery Legacy Repo is for advanced penetration tools
 # Scanners
 
 1- IP's local Scanner : VBS
+
+2- IP's local Network Scanner : C#
 
 # Containers
 
