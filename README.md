@@ -29,6 +29,10 @@ Mystery Legacy Repo is for advanced penetration tools
 
 2- IP's local Network Scanner : C#
 
+# Cleaners
+
+1- C# Clear Event logs & delete all logs files
+
 # Containers
 
 1- Powershell Code Container with C#
