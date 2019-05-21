@@ -33,6 +33,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 1- C# Clear Event logs & delete all logs files
 
+2- VBS Script : Clear Event logs & delete all logs files
+
 # Containers
 
 1- Powershell Code Container with C#
