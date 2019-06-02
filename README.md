@@ -25,6 +25,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 4- VB6 Inject Memory Downloader - .net/Native
 
+5- Powershell Downloader within Assembly (Fasm)
+
 # Scanners
 
 1- IP's local Scanner : VBS
@@ -44,3 +46,11 @@ Mystery Legacy Repo is for advanced penetration tools
 2- Powershell Code Container with Masm32/Assembly
 
 3- JS Code Container with AHK:Autohotkey
+
+4- C++ Runpe |Injection Container - .net/native
+
+5- AHKContainer (Commandline) within Assembly (Fasm)
+
+6- AU3Container (Commandline) within Assembly (Fasm)
+
+7- Powershell Full-Code Container within Assembly (Fasm)
