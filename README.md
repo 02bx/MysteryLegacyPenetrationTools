@@ -47,10 +47,12 @@ Mystery Legacy Repo is for advanced penetration tools
 
 3- JS Code Container with AHK:Autohotkey
 
-4- C++ Runpe |Injection Container - .net/native
+4- C++ Runpe | Injection Container - .net/native
 
 5- AHKContainer (Commandline) within Assembly (Fasm)
 
 6- AU3Container (Commandline) within Assembly (Fasm)
 
 7- Powershell Full-Code Container within Assembly (Fasm)
+
+8- VB.NET | Injection Container - .net/native
