@@ -53,10 +53,12 @@ Mystery Legacy Repo is for advanced penetration tools
 
 4- C++ Runpe | Injection Container - .net/native
 
-5- AHKContainer (Commandline) within Assembly (Fasm)
+5- AHKContainer (Commandline) with Assembly (Fasm)
 
-6- AU3Container (Commandline) within Assembly (Fasm)
+6- AU3Container (Commandline) with Assembly (Fasm)
 
-7- Powershell Full-Code Container within Assembly (Fasm)
+7- Powershell Full-Code Container with Assembly (Fasm)
 
 8- VB.NET | Injection Container - .net/native
+
+9- Powershell Full-Code Container with C++ (MinGW)
