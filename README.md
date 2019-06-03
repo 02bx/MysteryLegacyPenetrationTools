@@ -19,6 +19,8 @@ Mystery Legacy Repo is for advanced penetration tools
 
 8- VB6 Worm
 
+9- AU3 Worm
+
 # Downloaders
 
 1- JS Downloader (ScriptControl) - 32/64 bit
@@ -30,6 +32,8 @@ Mystery Legacy Repo is for advanced penetration tools
 4- VB6 Inject Memory Downloader - .net/Native
 
 5- Powershell Downloader within Assembly (Fasm)
+
+6- Asm Inject Memory Downloader (Fasm) - .net/Native
 
 # Scanners
 
@@ -62,3 +66,5 @@ Mystery Legacy Repo is for advanced penetration tools
 8- VB.NET | Injection Container - .net/native
 
 9- Powershell Full-Code Container with C++ (MinGW)
+
+10- Asm Runpe | Injection Container (Fasm) - .net/native
